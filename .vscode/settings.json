@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "lecture_hashmaps"
+        "lecture_hashmaps",
+        "assignment_hashmatique"
     ]
 }
