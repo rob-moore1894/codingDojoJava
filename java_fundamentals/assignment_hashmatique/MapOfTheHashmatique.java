@@ -16,7 +16,7 @@ public class MapOfTheHashmatique {
 
         // Pull out one of the songs by its track title
         String words = trackList.get("Battle Cry");
-        //System.out.println(words);
+        System.out.println(words);
 
         // Print out all the track names and lyrics in the format Track: Lyrics
         Set<String> tracks = trackList.keySet();
