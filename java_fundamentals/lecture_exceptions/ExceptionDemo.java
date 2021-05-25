@@ -21,7 +21,7 @@ public class ExceptionDemo {
 
     // Try/Catch - The "try" statement will try out the code and then catch any "exceptional" events
     public static void main(String[] args) {
-        UnreliableFriend friend = new ExceptionDemo.UnreliableFriend();
+        UnreliableFriend friend = new UnreliableFriend();
         try{
             friend.deliverMessage();
             System.out.println("The message was delivered");

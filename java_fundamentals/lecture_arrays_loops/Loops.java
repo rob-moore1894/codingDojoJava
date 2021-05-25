@@ -38,7 +38,7 @@ public class Loops {
         //     System.out.println("hello "+ name);
         // }
 
-        // Rather than forcing an awkward declaration, the enhanced for loop translates the above code to: 
+        // Rather than forcing an awkward declaration, the enhanced for-loop translates the above code to: 
         for(String name : dynamicArray){
             System.out.println("hello " + name); 
         }
